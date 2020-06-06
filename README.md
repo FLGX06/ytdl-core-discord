@@ -5,6 +5,8 @@
 [![npm](https://img.shields.io/npm/dt/ytdl-core-discord.svg)](https://www.npmjs.com/package/ytdl-core-discord)
 [![Patreon](https://img.shields.io/badge/donate-patreon-F96854.svg)](https://www.patreon.com/discordjs)
 
+**This branch adds support for invidio.us**
+
 A [ytdl-core](https://github.com/fent/node-ytdl-core/) wrapper focused on efficiency for use in Discord music bots.
 
 You can pass the exact same arguments as you would with the ytdl-core module, with the exception that
